@@ -1,6 +1,3 @@
 print("it worked!")
-<<<<<<< HEAD
-
-=======
 print("maybe??")
->>>>>>> origin/main
+print("It did!")
